@@ -11,47 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d8db5b7-92a8-40cc-a514-40ff95952238" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/AppShell.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/AppShell.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/MauiProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Android/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Android/MainActivity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Android/MainApplication.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Android/Resources/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/MacCatalyst/AppDelegate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/MacCatalyst/Entitlements.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/MacCatalyst/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/MacCatalyst/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Tizen/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Windows/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Windows/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Windows/Package.appxmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/Windows/app.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/iOS/AppDelegate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/iOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/iOS/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Platforms/iOS/Resources/PrivacyInfo.xcprivacy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/AppIcon/appicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/AppIcon/appiconfg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Fonts/FluentUI.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Fonts/OpenSans-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Images/dotnet_bot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Raw/AboutAssets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Splash/splash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Styles/Colors.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/Resources/Styles/Styles.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/trackingApp.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="1d8db5b7-92a8-40cc-a514-40ff95952238" name="Changes" comment="create" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/credist/trackingApp.git",
+    "accountId": "b8010527-9fb6-4a00-bddb-66fb3785896f"
+  }
+}]]></component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="trackingApp/invalid/Android Facet - trackingApp" />
@@ -76,9 +42,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Android.trackingApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -149,16 +117,46 @@
       <option name="presentableId" value="Default" />
       <updated>1739474465196</updated>
       <workItem from="1739474466510" duration="351000" />
-      <workItem from="1739474849903" duration="1346000" />
+      <workItem from="1739474849903" duration="1895000" />
     </task>
+    <task id="LOCAL-00001" summary="create">
+      <option name="closed" value="true" />
+      <created>1739476826712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739476826712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create">
+      <option name="closed" value="true" />
+      <created>1739476847935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739476847935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="create" />
+    <option name="LAST_COMMIT_MESSAGE" value="create" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
