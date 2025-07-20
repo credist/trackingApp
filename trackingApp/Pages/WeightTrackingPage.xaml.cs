@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using trackingApp.ViewModels;
 
 namespace trackingApp.Pages;
 
 public partial class WeightTrackingPage : ContentPage
 {
-    public WeightTrackingPage()
+    public WeightTrackingPage(WeightTrackingViewModel vm)
     {
         InitializeComponent();
+        BindingContext = vm;
     }
 }
