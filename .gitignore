@@ -4,3 +4,5 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/.idea.trackingApp/.idea/workspace.xml
+.idea
+trackingApp.sln.DotSettings.user
