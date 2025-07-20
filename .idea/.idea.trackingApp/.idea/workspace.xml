@@ -11,15 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d8db5b7-92a8-40cc-a514-40ff95952238" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/trackingApp/DataObjects/Exercise.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/DataObjects/WorkoutSet.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/DataObjects/WorkoutTemplate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/WorkoutPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackingApp/WorkoutPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.trackingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.trackingApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trackingApp/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/trackingApp/AppShell.xaml" afterDir="false" />
-    </list>
+    <list default="true" id="1d8db5b7-92a8-40cc-a514-40ff95952238" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +126,7 @@
       <workItem from="1739474466510" duration="351000" />
       <workItem from="1739474849903" duration="5586000" />
       <workItem from="1739631732826" duration="310000" />
-      <workItem from="1739734012910" duration="1989000" />
+      <workItem from="1739734012910" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <option name="closed" value="true" />
@@ -160,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739476979592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add classes">
+      <option name="closed" value="true" />
+      <created>1739739433505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739739433505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="add classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
