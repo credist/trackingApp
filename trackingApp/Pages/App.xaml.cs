@@ -1,4 +1,4 @@
-﻿namespace trackingApp;
+﻿namespace trackingApp.Pages;
 
 public partial class App : Application
 {

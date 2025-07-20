@@ -1,6 +1,8 @@
+using trackingApp.Services.Interfaces;
+
 namespace trackingApp.Services;
 
-public class WorkoutService
+public class WorkoutService : IWorkoutService 
 {
     
 }

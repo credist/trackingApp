@@ -1,6 +1,8 @@
+using trackingApp.Services.Interfaces;
+
 namespace trackingApp.Services;
 
-public class FoodService
+public class FoodService : IFoodService
 {
     
 }
